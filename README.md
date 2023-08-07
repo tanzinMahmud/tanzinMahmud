@@ -11,7 +11,7 @@ In addition to my technical skills, I am also a highly collaborative team player
 
 Skills: HTML / CSS / Bootstrap / JavaScript / React / Redux / Node/ExpressJs / MongoDB/Mongoose / MySql/Sequelize / API Development / API Integration / Git
 
-- 🔭 I’m currently working on Navigator Technologies as a Software Engineer 
+- 🔭 I’m currently working on Navigator Technologies as a Software Engineer.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanzinMahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanzin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/6679255/md-tanzin-mahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/tanzinmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanzinmahmud.com)  
