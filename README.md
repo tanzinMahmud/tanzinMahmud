@@ -1,7 +1,7 @@
 ![Software Engineer](https://media.licdn.com/dms/image/D5616AQFVdzlyg5I54A/profile-displaybackgroundimage-shrink_350_1400/0/1684949445104?e=1697068800&v=beta&t=8ZbccdXYIz_ScAcp6qrLweq2XiTY4Ntac1mRJCECjW4)
 
 ### Hi there 👋, I am Md. Tanzin Mahmud
-#### I am Software Engineer
+#### I am a Software Engineer
 
 I am a highly skilled software engineer with over 4 years of professional experience in the tech industry. Throughout my career, I have developed a strong passion for building innovative and reliable software solutions that meet the unique needs of users and businesses alike.
 
