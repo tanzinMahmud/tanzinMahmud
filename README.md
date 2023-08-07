@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Md. Tanzin Mahmud
 #### Software Engineer
 
-Hi there! My name is Md. Tanzin Mahmud and I am a highly skilled software engineer with over 4 years of professional experience in the tech industry. Throughout my career, I have developed a strong passion for building innovative and reliable software solutions that meet the unique needs of users and businesses alike.
+I am a highly skilled software engineer with over 4 years of professional experience in the tech industry. Throughout my career, I have developed a strong passion for building innovative and reliable software solutions that meet the unique needs of users and businesses alike.
 
 As a software engineer, I have extensive experience in designing, developing, and implementing complex software systems, as well as working with a range of programming languages and technologies, including HTML, CSS, Bootstrap, JavaScript, Node/Express JS, AngularJS, React, NextJS, MongoDB, MERN, MySQL. I am well-versed in the entire software development life cycle, from requirements gathering to design, development, testing, and deployment.
 
